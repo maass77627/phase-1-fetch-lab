@@ -13,6 +13,17 @@ function renderBooks(books) {
   });
 }
 
+function fifthBook(books) {
+  return books.find((book) => book.)
+
+
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   fetchBooks();
 });
+
+
+//The 5th book in the series
+//The 1031st character in the series
+//The total number of pages of all the books
