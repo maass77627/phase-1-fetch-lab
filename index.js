@@ -14,7 +14,7 @@ function renderBooks(books) {
 }
 
 function fifthBook(books) {
-  return books.find((book) => book.)
+  return books.find((book) => book.index === 4)
 
 
 }
@@ -24,6 +24,3 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-//The 5th book in the series
-//The 1031st character in the series
-//The total number of pages of all the books
